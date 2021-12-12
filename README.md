@@ -8,5 +8,5 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 <br>
 
 ## Technique
-1. Basic : 1
+1. Basic : 2
 2. BFS : 1
