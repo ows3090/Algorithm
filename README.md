@@ -1,9 +1,10 @@
 # Algorithm
 
-## Kotlin
+## commit rule 
+git commit -m "[language](online site) [algorithm skill] : file name"
 
-## C++
+ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 
-## Java
-
-## Python
+## problem type
+1. Basic : 1
+2. BFS : 1
