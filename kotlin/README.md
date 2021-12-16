@@ -6,3 +6,12 @@
 
 ## BFS
 - [Lv2.powergridtwodivide](https://programmers.co.kr/learn/courses/30/lessons/86971?language=kotlin)
+<br>
+
+## Stack
+- [Lv2.createbignumber](https://programmers.co.kr/learn/courses/30/lessons/42883?language=kotlin)
+
+
+
+
+
