@@ -2,6 +2,7 @@
 ## Basic
 - [Lv2.twocountlowbit](https://programmers.co.kr/learn/courses/30/lessons/77885?language=kotlin)
 - [Lv2.createintersetionpointer](https://programmers.co.kr/learn/courses/30/lessons/87377?language=kotlin)
+- [Lv2.trianglesnail](https://programmers.co.kr/learn/courses/30/lessons/68645?language=kotlin)
 <br>
 
 ## BFS
