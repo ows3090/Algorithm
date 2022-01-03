@@ -17,4 +17,8 @@
 - [Lv2.fatigue](https://programmers.co.kr/learn/courses/30/lessons/87946?language=kotlin)
 <br>
 
+## Brute-force
+- [Lv2.carpet](https://programmers.co.kr/learn/courses/30/lessons/42842?language=kotlin)
+<br>
+
 

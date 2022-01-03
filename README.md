@@ -12,3 +12,4 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 2. BFS : 1
 3. Stack : 1
 4. DFS : 1
+5. Brute-force : 1
