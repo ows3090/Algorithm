@@ -21,4 +21,5 @@
 - [Lv2.carpet](https://programmers.co.kr/learn/courses/30/lessons/42842?language=kotlin)
 <br>
 
-
+## Queue
+- [Lv2.crossingtruck](https://programmers.co.kr/learn/courses/30/lessons/42583?language=kotlin)
