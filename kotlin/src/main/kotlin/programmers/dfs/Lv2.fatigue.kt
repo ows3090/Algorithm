@@ -1,6 +1,6 @@
 import kotlin.math.*
 
-class Solution {
+class Fatigue {
     var answer: Int = 0
     fun permutation(k: Int,check: Array<Boolean>, dungeons: Array<IntArray>,item : Array<Int>){
         if(item.size == dungeons.size){

@@ -1,4 +1,4 @@
-class Solution {
+class TriangleSnail {
     val arr = Array(1000,{Array(1000,{0})})
     val dir = arrayOf(1 to 0, 0 to 1, -1 to -1)
     var d = 0

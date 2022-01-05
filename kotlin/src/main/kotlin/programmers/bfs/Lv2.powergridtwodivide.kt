@@ -1,7 +1,7 @@
 import java.util.*
 import kotlin.math.*
 
-class Solution {
+class PowerGridTwoDivide {
     fun solution(n: Int, wires: Array<IntArray>): Int {
         var answer: Int = n
 

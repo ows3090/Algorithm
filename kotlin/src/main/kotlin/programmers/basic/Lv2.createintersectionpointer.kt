@@ -1,6 +1,6 @@
 import kotlin.math.*
 
-class Solution {
+class CreateInterSectionPointer {
     fun solution(line: Array<IntArray>): Array<String> {
         val pointerset = mutableSetOf<Pair<Long,Long>>()
 

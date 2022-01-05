@@ -1,6 +1,6 @@
 import kotlin.math.*
 
-class Solution {
+class Carpet {
     fun solution(brown: Int, yellow: Int): IntArray {
         var answer = intArrayOf(0,0)
         var mod = sqrt(yellow.toDouble()).toInt()
