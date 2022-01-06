@@ -24,3 +24,9 @@
 
 ## Queue
 - [Lv2.crossingtruck](https://programmers.co.kr/learn/courses/30/lessons/42583?language=kotlin)
+<br>
+
+## Dijkstra
+- [Lv2.delivery](https://programmers.co.kr/learn/courses/30/lessons/12978?language=kotlin)
+<br>
+
