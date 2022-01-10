@@ -17,6 +17,7 @@
 
 ## DFS
 - [Lv2.fatigue](https://programmers.co.kr/learn/courses/30/lessons/87946?language=kotlin)
+- [Lv2.candidatekey](https://programmers.co.kr/learn/courses/30/lessons/42890?language=kotlin)
 <br>
 
 ## Brute-force
