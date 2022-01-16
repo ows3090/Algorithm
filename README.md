@@ -17,3 +17,4 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 7. Dijkstra : 1
 8. Greedy : 1
 9. Sort : 1
+10. PriorityQueue : 1
