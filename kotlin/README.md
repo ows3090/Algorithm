@@ -47,3 +47,6 @@
 - [Lv2.printer](https://programmers.co.kr/learn/courses/30/lessons/42587?language=kotlin)
 <br>
 
+## String
+- [Lv2.tuple](https://programmers.co.kr/learn/courses/30/lessons/64065?language=kotlin)
+<br>
