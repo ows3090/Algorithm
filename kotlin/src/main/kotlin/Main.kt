@@ -2,14 +2,8 @@ import java.util.*
 
 fun main(){
 
-    var arr = Array(6, {r ->
-        Array(6, {c -> r*6 + c})
-    })
+    val map = mutableMapOf<Int,Int>()
 
-    println(arr[1][1])
-    {
-        println(i)
-    }
-    for(i in 6 downTo 1)
+    println(map[0])
 }
 
