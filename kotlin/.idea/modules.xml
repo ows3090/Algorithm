@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" group="algorithm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_main.iml" group="algorithm" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm_test.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin.iml" filepath="$PROJECT_DIR$/kotlin.iml" />
     </modules>
   </component>

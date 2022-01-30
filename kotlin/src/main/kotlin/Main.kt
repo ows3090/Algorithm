@@ -1,9 +1,7 @@
 import java.util.*
 
 fun main(){
+    println("main")
 
-    val map = mutableMapOf<Int,Int>()
-
-    println(map[0])
 }
 
