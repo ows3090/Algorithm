@@ -20,3 +20,4 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 10. PriorityQueue : 1
 11. String :  2
 12. Recursion : 1
+13. Math : 1

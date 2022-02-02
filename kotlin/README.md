@@ -60,3 +60,7 @@
 ## Recursion
 - [Lv2.parenthesis_conversion](https://programmers.co.kr/learn/courses/30/lessons/60058?language=kotlin)
 <br>
+
+## Math
+- [Lv2.primenumber](https://programmers.co.kr/learn/courses/30/lessons/92335?language=kotlin)
+<br>
