@@ -12,7 +12,7 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 2. BFS : 2
 3. Stack : 2
 4. DFS : 4
-5. Brute-force : 2
+5. Brute-force : 3
 6. Queue : 2
 7. Dijkstra : 1
 8. Greedy : 1
