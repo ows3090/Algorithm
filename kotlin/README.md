@@ -17,6 +17,8 @@
 ## Stack
 - [Lv2.createbignumber](https://programmers.co.kr/learn/courses/30/lessons/42883?language=kotlin)
 - [Lv2.brackrotation](https://programmers.co.kr/learn/courses/30/lessons/76502?language=kotlin)
+- [10828.stackproblem](https://www.acmicpc.net/problem/10828)
+
 <br>
 
 ## DFS
