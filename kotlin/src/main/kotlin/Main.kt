@@ -2,25 +2,28 @@ import java.util.*
 
 fun main() = with(System.`in`.bufferedReader()){
     val num = readLine().toInt()
-    val s = Stack<Int>()
+    val q = LinkedList<Int>()
 
     for(i in 0 until num){
         var cmd = readLine()!!.split(" ")
-        when(cmd.first()){
+        when(cmd.first()) {
             "push" -> {
-                s.add(cmd.last().toInt())
+                q.add(cmd.last().toInt())
             }
-            "top" -> {
-                if(s.size == 0) println(-1) else println(s.peek())
+            "pop" -> {
+                if(q.size == 0) println(-1) else println(q.poll())
             }
             "size" -> {
-                println(s.size)
+                println(q.size)
             }
             "empty" -> {
-                if(s.isEmpty()) println(1) else println(0)
+                if(q.isEmpty()) println(1) else println(0)
             }
-            else -> {
-                if(s.size == 0) println(-1) else println(s.pop())
+            "front" -> {
+                if(q.size == 0) println(-1) else println(q.peek())
+            }
+            "back" -> {
+                if(q.size == 0) println(-1) else println(q.peekLast())
             }
         }
     }
