@@ -65,3 +65,11 @@
 ## Math
 - [Lv2.primenumber](https://programmers.co.kr/learn/courses/30/lessons/92335?language=kotlin)
 <br>
+
+## Array
+- [10808.alphabet_count](https://www.acmicpc.net/problem/10808)
+<br>
+
+## LinkedList
+- [1406.editor](https://www.acmicpc.net/problem/1406)
+<br>
