@@ -9,7 +9,7 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 
 ## Problem Type
 1. Basic : 7
-2. BFS : 4
+2. BFS : 5
 3. Stack : 3
 4. DFS : 4
 5. Brute-force : 3
