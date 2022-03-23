@@ -67,7 +67,7 @@
 
 ## Recursion
 - [Lv2.parenthesis_conversion](https://programmers.co.kr/learn/courses/30/lessons/60058?language=kotlin)
-- 1629.multiple](https://www.acmicpc.net/problem/1629)
+- [1629.multiple](https://www.acmicpc.net/problem/1629)
 <br>
 
 ## Math
@@ -81,3 +81,8 @@
 ## LinkedList
 - [1406.editor](https://www.acmicpc.net/problem/1406)
 <br>
+
+## BackTracking
+- [15649.NM1](https://www.acmicpc.net/problem/15649)
+<br>
+
