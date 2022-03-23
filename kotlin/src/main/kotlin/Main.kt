@@ -1,27 +1,22 @@
-var count = 0
-
-fun backtracking(num: Int, sum: Int, total: Int, idx: Int, arr: IntArray) {
-    if(idx == num) {
-        if(sum == total) count++
-    }else {
-        backtracking(num, sum, total+arr[idx], idx+1, arr)
-        backtracking(num, sum, total, idx+1, arr)
-    }
-}
+import kotlin.math.*
 
 fun main() = with(System.`in`.bufferedReader()) {
-    val input = readLine().split(" ")
-    val arr = readLine().split(" ").map { it.toInt() }.toIntArray()
+    val num = readLine().toInt()
+    val arr = Array(num+5, {0})
+    arr[1] = 0
+    arr[2] = 1
+    arr[3] = 1
+    for(i in 4..num){
+        arr[i] = arr[i-1]+1
+        if(i%3 == 0){
+            arr[i] = min(arr[i], arr[i/3]+1)
+        }
 
-    backtracking(
-            input.first().toInt(),
-            input.last().toInt(),
-            0,
-            0,
-            arr
-    )
-    if(input.last().toInt() == 0) count--
-    println(count)
+        if(i%2 == 0){
+            arr[i] = min(arr[i], arr[i/2]+1)
+        }
+    }
+    println(arr[num])
 }
 
 
