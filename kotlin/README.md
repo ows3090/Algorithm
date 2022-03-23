@@ -67,6 +67,7 @@
 
 ## Recursion
 - [Lv2.parenthesis_conversion](https://programmers.co.kr/learn/courses/30/lessons/60058?language=kotlin)
+- 1629.multiple](https://www.acmicpc.net/problem/1629)
 <br>
 
 ## Math
