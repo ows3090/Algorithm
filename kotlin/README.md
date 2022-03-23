@@ -86,3 +86,8 @@
 - [15649.NM1](https://www.acmicpc.net/problem/15649)
 - [9663.NQueen](https://www.acmicpc.net/problem/9663)
 <br>
+
+## Simulation
+- [1182.SubSequence](https://www.acmicpc.net/problem/1182)
+<br>
+

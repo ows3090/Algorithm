@@ -1,33 +1,27 @@
+var count = 0
 
-const val default = 50
-var total = 0
-
-fun recur(num: Int, cnt: Int, arr: Array<Int>, leftarr: Array<Int>, rightarr: Array<Int>) {
-    if(num == cnt){
-        total++
-    }else{
-        for(i in 0 until num){
-            if(i !in arr){
-                if(cnt+i !in leftarr){
-                    if(cnt-i !in rightarr){
-                        arr[cnt] = i
-                        leftarr[cnt] = cnt+i
-                        rightarr[cnt] = cnt-i
-                        recur(num, cnt+1, arr, leftarr, rightarr)
-                        arr[cnt] = default
-                        leftarr[cnt] = default
-                        rightarr[cnt] = default
-                    }
-                }
-            }
-        }
+fun backtracking(num: Int, sum: Int, total: Int, idx: Int, arr: IntArray) {
+    if(idx == num) {
+        if(sum == total) count++
+    }else {
+        backtracking(num, sum, total+arr[idx], idx+1, arr)
+        backtracking(num, sum, total, idx+1, arr)
     }
 }
 
 fun main() = with(System.`in`.bufferedReader()) {
-    val num = readLine().toInt()
-    recur(num, 0, Array(num,{default}), Array(num,{default}),Array(num,{default}))
-    println(total)
+    val input = readLine().split(" ")
+    val arr = readLine().split(" ").map { it.toInt() }.toIntArray()
+
+    backtracking(
+            input.first().toInt(),
+            input.last().toInt(),
+            0,
+            0,
+            arr
+    )
+    if(input.last().toInt() == 0) count--
+    println(count)
 }
 
 
