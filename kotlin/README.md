@@ -13,6 +13,7 @@
 - [Lv2.powergridtwodivide](https://programmers.co.kr/learn/courses/30/lessons/86971?language=kotlin)
 - [Lv2.checkdistance](https://programmers.co.kr/learn/courses/30/lessons/81302?language=kotlin)
 - [1926.picture](https://www.acmicpc.net/problem/1926)
+- [2178.mazeexploration](https://www.acmicpc.net/problem/2178)
 <br>
 
 ## Stack

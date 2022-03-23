@@ -15,49 +15,39 @@ fun main() = with(System.`in`.bufferedReader()) {
     val dir = arrayOf(arrayOf(0, 1), arrayOf(1, 0), arrayOf(0, -1), arrayOf(-1, 0))
 
     for (i in 0 until n) {
-        readLine().split(" ").forEachIndexed { j, s ->
-            arr[i][j] = s.toInt()
+        readLine().toCharArray().map { it.toString().toInt() }.forEachIndexed { j, num ->
+            arr[i][j] = num
         }
     }
 
+    val q = LinkedList<Pair<Int, Int>>()
+    val cost = LinkedList<Int>()
+    q.add(Pair(0, 0))
+    cost.add(1)
+    visit[0][0] = 1
 
-    var count = 0
-    var maxcount = 0
-    for (i in 0 until n) {
-        for (j in 0 until m) {
-            if (arr[i][j] == 1 && visit[i][j] == 0) {
-                count++
+    while (!q.isEmpty()) {
+        val y = q.peek().first
+        val x = q.peek().second
+        val c = cost.poll()
+        q.poll()
 
-                val q = LinkedList<Pair<Int, Int>>()
-                q.add(Pair(i, j))
-                visit[i][j] = 1
-                var cnt = 1
+        if(y == n-1 && x == m-1){
+            println(c)
+            break;
+        }
 
+        for (d in dir) {
+            val dy = y + d[0]
+            val dx = x + d[1]
 
-                while (!q.isEmpty()) {
-                    val y = q.peek().first
-                    val x = q.peek().second
-                    q.poll()
-
-                    for (d in dir) {
-                        val dy = y + d[0]
-                        val dx = x + d[1]
-
-                        if (inside(n, m, dy, dx) && arr[dy][dx] == 1 && visit[dy][dx] == 0) {
-                            q.add(Pair(dy, dx))
-                            visit[dy][dx] = 1
-                            cnt++
-                        }
-                    }
-                }
-
-                maxcount = max(cnt, maxcount)
+            if(inside(n,m,dy,dx) && arr[dy][dx] == 1 && visit[dy][dx] ==0){
+                q.add(Pair(dy, dx))
+                visit[dy][dx] = 1
+                cost.add(c+1)
             }
         }
     }
-
-    println(count)
-    println(maxcount)
 }
 
 
