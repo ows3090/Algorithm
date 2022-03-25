@@ -46,6 +46,7 @@
 
 ## Dijkstra
 - [Lv2.delivery](https://programmers.co.kr/learn/courses/30/lessons/12978?language=kotlin)
+- [1753.minpath](https://www.acmicpc.net/problem/1753)
 <br>
 
 ## Greedy
@@ -103,5 +104,5 @@
 
 ## Graph
 - [1197.MST](https://www.acmicpc.net/problem/1197)
+- [11404.Floyd](https://www.acmicpc.net/problem/11404)
 <br>
-

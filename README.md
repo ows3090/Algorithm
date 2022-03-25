@@ -14,7 +14,7 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 4. DFS : 4
 5. Brute-force : 3
 6. Queue : 3
-7. Dijkstra : 1
+7. Dijkstra : 2
 8. Greedy : 1
 9. Sort : 1
 10. PriorityQueue : 1
@@ -27,4 +27,4 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 17. Simulation : 1
 18. DP : 3
 19. BinarySearch : 1
-20. Graph : 1
+20. Graph : 2
