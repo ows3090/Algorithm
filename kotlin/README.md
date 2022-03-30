@@ -111,3 +111,7 @@
 ## BackTracking
 - [Lv2.ArcheryCompetition](https://programmers.co.kr/learn/courses/30/lessons/92342?language=kotlin)
 <br>
+
+## PrefixSum
+- [Lv2.RankSearch](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)
+<br>

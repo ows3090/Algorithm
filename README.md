@@ -29,3 +29,4 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 19. BinarySearch : 1
 20. Graph : 2
 21. BackTracking : 1
+22. Prefixsum : 1
