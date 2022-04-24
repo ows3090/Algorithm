@@ -89,6 +89,8 @@
 ## BackTracking
 - [15649.NM1](https://www.acmicpc.net/problem/15649)
 - [9663.NQueen](https://www.acmicpc.net/problem/9663)
+- [Lv2.ArcheryCompetition](https://programmers.co.kr/learn/courses/30/lessons/92342?language=kotlin)
+- [Lv2.NQueen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=kotlin)
 <br>
 
 ## Simulation
@@ -109,10 +111,6 @@
 ## Graph
 - [1197.MST](https://www.acmicpc.net/problem/1197)
 - [11404.Floyd](https://www.acmicpc.net/problem/11404)
-<br>
-
-## BackTracking
-- [Lv2.ArcheryCompetition](https://programmers.co.kr/learn/courses/30/lessons/92342?language=kotlin)
 <br>
 
 ## PrefixSum
