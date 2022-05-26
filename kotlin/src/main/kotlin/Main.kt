@@ -1,26 +1,7 @@
 import java.lang.Integer.max
-
-var result = 0
-var num = 0
-
-fun backtracking(list: List<Int>, idx: Int, cnt: Int,sum: Int){
-    if(idx >= list.size && cnt<3) return
-    if(cnt == 3){
-        if(sum <= num){
-            result = max(result, sum)
-        }
-    }else{
-        backtracking(list, idx+1, cnt+1, sum+list[idx])
-        backtracking(list, idx+1, cnt, sum)
-    }
-}
+import kotlin.time.seconds
 
 fun main() = with(System.`in`.bufferedReader()) {
-    val input = readLine().split(" ").map { it.toInt() }
-    num = input.get(1)
-
-    val list = readLine().split(" ").map { it.toInt() }
-
-    backtracking(list, 0,0, 0)
-    println(result)
+    val list = listOf(1,3,5,3,1)
+    println(list.count { it == 3 })
 }
