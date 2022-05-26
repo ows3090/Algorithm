@@ -23,7 +23,7 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 13. Math : 1
 14. Array : 1
 15. LinkedList : 1
-16. BackTracking : 4
+16. BackTracking : 5
 17. Simulation : 1
 18. DP : 4
 19. BinarySearch : 1
