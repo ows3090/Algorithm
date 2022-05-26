@@ -8,6 +8,7 @@
 - [Lv2.plainsquare](https://programmers.co.kr/learn/courses/30/lessons/62048?language=kotlin)
 - [Lv2.parkingcost](https://programmers.co.kr/learn/courses/30/lessons/92341?language=kotlin)
 - [Lv2.getreport](https://programmers.co.kr/learn/courses/30/lessons/92334?language=kotlin)
+- [Lv1.failurerate](https://programmers.co.kr/learn/courses/30/lessons/42889?language=kotlin)
 <br>
 
 ## BFS
