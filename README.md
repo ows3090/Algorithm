@@ -8,14 +8,14 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 <br>
 
 ## Problem Type
-1. Basic : 8
+1. Basic : 9
 2. BFS : 6
 3. Stack : 3
 4. DFS : 4
 5. Brute-force : 3
 6. Queue : 3
 7. Dijkstra : 2
-8. Greedy : 1
+8. Greedy : 2
 9. Sort : 1
 10. PriorityQueue : 2
 11. String :  2
@@ -27,8 +27,7 @@ ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
 17. Simulation : 1
 18. DP : 4
 19. BinarySearch : 1
-20. Graph : 2
+20. Graph : 3
 21. Prefixsum : 1
-22. Graph : 1
-23. Hash : 1
-24. Floyd : 1
+22. Hash : 1
+23. Floyd : 1
