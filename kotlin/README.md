@@ -11,6 +11,7 @@
 - [Lv1.failurerate](https://programmers.co.kr/learn/courses/30/lessons/42889?language=kotlin)
 - [Lv1.mockexam](https://programmers.co.kr/learn/courses/30/lessons/42840?language=kotlin)
 - [Lv1.knumber](https://school.programmers.co.kr/learn/courses/30/lessons/42748?language=kotlin)
+- [Lv1.makeprimenumber](https://school.programmers.co.kr/learn/courses/30/lessons/12977?language=kotlin#)
 <br>
 
 ## BFS
