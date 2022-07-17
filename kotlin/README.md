@@ -72,6 +72,7 @@
 ## String
 - [Lv2.tuple](https://programmers.co.kr/learn/courses/30/lessons/64065?language=kotlin)
 - [Lv2.openchatting](https://programmers.co.kr/learn/courses/30/lessons/42888?language=kotlin)
+- [Lv1.NumberStrng](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=kotlin)
 <br>
 
 ## Recursion
