@@ -22,4 +22,7 @@ fun main() = with(System.`in`.bufferedReader()) {
                 else it
             }
     println(answer)
+    val s = listOf<String>("123456","34312541","356356","13","!32")
+    s.groupingBy { it }
+    println(s)
 }
