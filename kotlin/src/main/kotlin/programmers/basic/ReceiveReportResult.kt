@@ -31,14 +31,11 @@ class ReceiveReportResult {
     }
 
     fun solution2(id_list: Array<String>, report: Array<String>, k: Int): IntArray =
-            report.map { it.split(" ") }
+            report.distinct().map { it.split(" ") }
                     .groupBy { it[1] }
-                    .asSequence()
-                    .map { it.value.distinct() }
+                    .map { it.value }
                     .filter { it.size >= k }
                     .flatten()
-                    .map { it[0] }
-                    .groupingBy { it }
-                    .eachCount()
-                    .run { id_list.map { getOrDefault(it, 0) }.toIntArray() }
+                    .groupBy { it[0] }
+                    .run { id_list.map { get(it)?.size ?: 0 }.toIntArray() }
 }

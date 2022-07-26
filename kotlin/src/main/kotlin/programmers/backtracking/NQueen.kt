@@ -2,20 +2,22 @@ package programmers.backtracking
 
 class NQueen {
     var answer = 0
-    fun backtracking(n: Int, h: Int, harr: List<Int>, leftarr: List<Int>, rightarr: List<Int>){
-        if(n == h){
+
+    fun backtraking(n: Int, y: Int, dlist: List<Int>, rdlist: List<Int>, ldlist: List<Int>){
+        if(n == y){
             answer++
-        }else{
-            for(i in 0 until n){
-                if(!harr.contains(i) && !leftarr.contains(h+i) && !rightarr.contains(n-h+i)){
-                    backtracking(n,h+1, harr+listOf(i), leftarr+listOf(h+i), rightarr+listOf(n-h+i))
-                }
+            return
+        }
+
+        (0 until n).forEach{ i ->
+            if(dlist.contains(i).not() && rdlist.contains(y-i).not() && ldlist.contains(y+i).not()){
+                backtraking(n, y+1, dlist + listOf(i), rdlist + listOf(y -i), ldlist + listOf(y + i))
             }
         }
     }
 
     fun solution(n: Int): Int {
-        backtracking(n, 0, listOf(), listOf(),listOf())
+        backtraking(n,0,listOf<Int>(), listOf<Int>(), listOf<Int>())
         return answer
     }
 }
