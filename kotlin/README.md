@@ -77,6 +77,7 @@
 - [Lv2.openchatting](https://programmers.co.kr/learn/courses/30/lessons/42888?language=kotlin)
 - [Lv1.NumberStrng](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=kotlin)
 - [Lv1.RecommendNewID](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=kotlin)
+- [Lv2.StringCompression](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=kotlin#)
 <br>
 
 ## Recursion
