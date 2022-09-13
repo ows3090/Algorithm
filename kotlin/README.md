@@ -16,6 +16,7 @@
 - [Lv1.LottoMaxRankMinRank](https://school.programmers.co.kr/learn/courses/30/lessons/77484?language=kotlin)
 - [Lv1.MakeJadenCaseString](https://school.programmers.co.kr/learn/courses/30/lessons/12951?language=kotlin)
 - [Lv1.LeastCommonMultiple](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=kotlin)
+- [Lv2.binaryTransitioni](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 <br>
 
 ## BFS
