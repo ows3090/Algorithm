@@ -22,6 +22,7 @@
 - [Lv0.Bubbling](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
 - [Lv0.NextNumber](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
 - [Lv0.ContinuousNumberSum](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
+- [Lv0.PushWord](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
 <br>
 
 ## BFS
