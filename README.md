@@ -1,33 +1,32 @@
 # Algorithm
 
 ## commit rule 
-git commit -m "[language](online site) [algorithm skill] : file name"
-
-ex) git commit -m "kotlin(programmers) DFS : Lv2.powergridtwoddivide"
+``[Problem Type](Online Web Site) : [Problem Name or File Name]``<br>
+``ex) git commit -m "[BFS](programmers) : Picture.kt"``<br>
+그  외  Commit은 명확하게 표현
 
 <br>
 
 ## Problem Type
-1. Basic : 20
-2. BFS : 6
-3. Stack : 4
-4. DFS : 5
-5. Brute-force : 3
-6. Queue : 3
+1. Array : 1
+2. BackTracking : 6
+3. BFS : 6
+4. BinarySearch : 1
+5. Brute-Force : 3
+6. DFS : 5
 7. Dijkstra : 2
-8. Greedy : 2
-9. Sort : 1
-10. PriorityQueue : 2
-11. String : 5
-12. Recursion : 3
-13. Math : 1
-14. Array : 1
-15. LinkedList : 1
-16. BackTracking : 6
-17. Simulation : 1
-18. DP : 4
-19. BinarySearch : 1
-20. Graph : 3
-21. Prefixsum : 1
-22. Hash : 1
-23. Floyd : 1
+8. DP : 4
+9. Floyd : 1
+10. Graph : 3
+11. Greedy : 2
+12. Hash: 1
+13. LinkedList : 1
+14. Math : 1
+15. PrefixSum : 1
+16. PrioirtyQueue : 2
+17. Queue : 3
+18. Recursion : 3
+19. Simulation : 1
+20. Sort : 1
+21. Stack : 2
+22. String : 5
