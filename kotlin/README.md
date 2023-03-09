@@ -87,6 +87,7 @@
 - [Lv1.NumberStrng](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=kotlin)
 - [Lv1.RecommendNewID](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=kotlin)
 - [Lv2.StringCompression](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=kotlin#)
+- [Lv0.StringSort](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
 <br>
 
 ## Recursion
