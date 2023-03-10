@@ -1,3 +1,45 @@
+# 목차
+1. [Array](#array)
+2. [BackTracking](#backtracking)
+3. [Basic](#basic)
+4. [BFS](#bfs)
+5. [BinarySearch](#binarysearch)
+6. [Brute-force](#brute-force)
+7. [DFS](#dfs)
+8. [Dijkstra](#dijkstra)
+9. [DP](#dp)
+10. [Floyd](#floyd)
+11. [Graph](#graph)
+12. [Greedy](#greedy)
+13. [Hash](#hash)
+14. [LinkedList](#linkedlist)
+15. [Math](#math)
+16. [PrefixSum](#prefixsum)
+17. [PriorityQueue](#priorityqueue)
+18. [Queue](#queue)
+19. [Recursion](#recursion)
+20. [Simulation](#simulation)
+21. [Sort](#sort)
+22. [Stack](#stack)
+23. [String](#string)
+
+<br><br>
+
+
+## Array
+- [10808.alphabet_count](https://www.acmicpc.net/problem/10808)
+
+<br>
+
+## BackTracking
+- [15649.NM1](https://www.acmicpc.net/problem/15649)
+- [9663.NQueen](https://www.acmicpc.net/problem/9663)
+- [Lv2.ArcheryCompetition](https://programmers.co.kr/learn/courses/30/lessons/92342?language=kotlin)
+- [Lv2.NQueen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=kotlin)
+- [2798.BlackJack](https://www.acmicpc.net/problem/2798)
+- [Lv2.CollectionDictionary](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+
+<br>
 
 ## Basic
 - [Lv2.twocountlowbit](https://programmers.co.kr/learn/courses/30/lessons/77885?language=kotlin)
@@ -24,6 +66,7 @@
 - [Lv0.ContinuousNumberSum](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
 - [Lv0.PushWord](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
 - [Lv0.SaveSplitedArray](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
+
 <br>
 
 ## BFS
@@ -33,13 +76,19 @@
 - [2178.mazeexploration](https://www.acmicpc.net/problem/2178)
 - [7576.tomato](https://www.acmicpc.net/problem/7576)
 - [4179.fire](https://www.acmicpc.net/problem/4179)
+
 <br>
 
-## Stack
-- [Lv2.createbignumber](https://programmers.co.kr/learn/courses/30/lessons/42883?language=kotlin)
-- [Lv2.brackrotation](https://programmers.co.kr/learn/courses/30/lessons/76502?language=kotlin)
-- [10828.stackproblem](https://www.acmicpc.net/problem/10828)
-- [Lv1.craintoy](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=kotlin)
+## BinarySearch
+- [1920.FindNumber](https://www.acmicpc.net/problem/1920)
+
+<br>
+
+## Brute-force
+- [Lv2.carpet](https://programmers.co.kr/learn/courses/30/lessons/42842?language=kotlin)
+- [Lv2.matrixrotation](https://programmers.co.kr/learn/courses/30/lessons/77485?language=kotlin)
+- [Lv2.stringcompression](https://programmers.co.kr/learn/courses/30/lessons/60057?language=kotlin#)
+
 <br>
 
 ## DFS
@@ -48,37 +97,97 @@
 - [Lv2.maxexpression](https://programmers.co.kr/learn/courses/30/lessons/67257?language=kotlin)
 - [Lv2.menurenewal](https://programmers.co.kr/learn/courses/30/lessons/72411?language=kotlin)
 - [Lv2.targetnumber](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=kotlin)
+
 <br>
 
-## Brute-force
-- [Lv2.carpet](https://programmers.co.kr/learn/courses/30/lessons/42842?language=kotlin)
-- [Lv2.matrixrotation](https://programmers.co.kr/learn/courses/30/lessons/77485?language=kotlin)
-- [Lv2.stringcompression](https://programmers.co.kr/learn/courses/30/lessons/60057?language=kotlin#)
+## Dijkstra
+- [Lv2.delivery](https://programmers.co.kr/learn/courses/30/lessons/12978?language=kotlin)
+- [1753.minpath](https://www.acmicpc.net/problem/1753)
+
+<br>
+
+## DP
+- [1463.MakeOne](https://www.acmicpc.net/problem/1463)
+- [2579.ClimbingStairs](https://www.acmicpc.net/problem/2579)
+- [1149.RGBDistance](https://www.acmicpc.net/problem/1149)
+- [Lv3.RunFar](https://programmers.co.kr/learn/courses/30/lessons/12914?language=kotlin)
+
+<br>
+
+## Floyd
+- [Lv3.SharedTaxiFare](https://programmers.co.kr/learn/courses/30/lessons/72413?language=kotlin)
+
+<br>
+
+## Graph
+- [Lv3.Rank](https://programmers.co.kr/learn/courses/30/lessons/49191?language=kotlin)
+- [1197.MST](https://www.acmicpc.net/problem/1197)
+- [11404.Floyd](https://www.acmicpc.net/problem/11404)
+
+<br>
+
+## Greedy
+- [Lv2.joystick](https://programmers.co.kr/learn/courses/30/lessons/42860?language=kotlin)
+- [Lv1.GynSuit](https://programmers.co.kr/learn/courses/30/lessons/42862?language=kotlin)
+
+<br>
+
+## Hash
+- [Lv2.BestAlbum](https://programmers.co.kr/learn/courses/30/lessons/42579?language=kotlin)
+
+<br>
+
+## LinkedList
+- [1406.editor](https://www.acmicpc.net/problem/1406)
+
+<br>
+
+## Math
+- [Lv2.primenumber](https://programmers.co.kr/learn/courses/30/lessons/92335?language=kotlin)
+
+<br>
+
+## PrefixSum
+- [Lv2.RankSearch](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)
+
+<br>
+
+## PriorityQueue
+- [Lv2.printer](https://programmers.co.kr/learn/courses/30/lessons/42587?language=kotlin)
+- [Lv2.DisController](https://programmers.co.kr/learn/courses/30/lessons/42627?language=kotlin)
+
 <br>
 
 ## Queue
 - [Lv2.crossingtruck](https://programmers.co.kr/learn/courses/30/lessons/42583?language=kotlin)
 - [Lv2.featuredevelop](https://programmers.co.kr/learn/courses/30/lessons/42586?language=kotlin)
 - [10845.queue](https://www.acmicpc.net/problem/10845)
+
 <br>
 
-## Dijkstra
-- [Lv2.delivery](https://programmers.co.kr/learn/courses/30/lessons/12978?language=kotlin)
-- [1753.minpath](https://www.acmicpc.net/problem/1753)
+## Recursion
+- [Lv2.parenthesis_conversion](https://programmers.co.kr/learn/courses/30/lessons/60058?language=kotlin)
+- [1629.multiple](https://www.acmicpc.net/problem/1629)
+- [Lv3.HanoiTower](https://programmers.co.kr/learn/courses/30/lessons/12946?language=kotlin)
+
 <br>
 
-## Greedy
-- [Lv2.joystick](https://programmers.co.kr/learn/courses/30/lessons/42860?language=kotlin)
-- [Lv1.GynSuit](https://programmers.co.kr/learn/courses/30/lessons/42862?language=kotlin)
+##  Simulation
+- [1182.SubSequence](https://www.acmicpc.net/problem/1182)
+
 <br>
 
 ## Sort
 - [Lv2.thebiggestnumber](https://programmers.co.kr/learn/courses/30/lessons/42746?language=kotlin)
+
 <br>
 
-## PriorityQueue
-- [Lv2.printer](https://programmers.co.kr/learn/courses/30/lessons/42587?language=kotlin)
-- [Lv2.DisController](https://programmers.co.kr/learn/courses/30/lessons/42627?language=kotlin)
+## Stack
+- [Lv2.createbignumber](https://programmers.co.kr/learn/courses/30/lessons/42883?language=kotlin)
+- [Lv2.brackrotation](https://programmers.co.kr/learn/courses/30/lessons/76502?language=kotlin)
+- [10828.stackproblem](https://www.acmicpc.net/problem/10828)
+- [Lv1.craintoy](https://school.programmers.co.kr/learn/courses/30/lessons/64061?language=kotlin)
+
 <br>
 
 ## String
@@ -88,67 +197,5 @@
 - [Lv1.RecommendNewID](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=kotlin)
 - [Lv2.StringCompression](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=kotlin#)
 - [Lv0.StringSort](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
-<br>
-
-## Recursion
-- [Lv2.parenthesis_conversion](https://programmers.co.kr/learn/courses/30/lessons/60058?language=kotlin)
-- [1629.multiple](https://www.acmicpc.net/problem/1629)
-- [Lv3.HanoiTower](https://programmers.co.kr/learn/courses/30/lessons/12946?language=kotlin)
-<br>
-
-## Math
-- [Lv2.primenumber](https://programmers.co.kr/learn/courses/30/lessons/92335?language=kotlin)
-<br>
-
-## Array
-- [10808.alphabet_count](https://www.acmicpc.net/problem/10808)
-<br>
-
-## LinkedList
-- [1406.editor](https://www.acmicpc.net/problem/1406)
-<br>
-
-## BackTracking
-- [15649.NM1](https://www.acmicpc.net/problem/15649)
-- [9663.NQueen](https://www.acmicpc.net/problem/9663)
-- [Lv2.ArcheryCompetition](https://programmers.co.kr/learn/courses/30/lessons/92342?language=kotlin)
-- [Lv2.NQueen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=kotlin)
-- [2798.BlackJack](https://www.acmicpc.net/problem/2798)
-- [Lv2.CollectionDictionary](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
-<br>
-
-## Simulation
-- [1182.SubSequence](https://www.acmicpc.net/problem/1182)
-<br>
-
-## DP
-- [1463.MakeOne](https://www.acmicpc.net/problem/1463)
-- [2579.ClimbingStairs](https://www.acmicpc.net/problem/2579)
-- [1149.RGBDistance](https://www.acmicpc.net/problem/1149)
-- [Lv3.RunFar](https://programmers.co.kr/learn/courses/30/lessons/12914?language=kotlin)
-<br>
-
-## Binary Search
-- [1920.FindNumber](https://www.acmicpc.net/problem/1920)
-<br>
-
-## Graph
-- [1197.MST](https://www.acmicpc.net/problem/1197)
-- [11404.Floyd](https://www.acmicpc.net/problem/11404)
-<br>
-
-## PrefixSum
-- [Lv2.RankSearch](https://programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin)
-<br>
-
-## Graph
-- [Lv3.Rank](https://programmers.co.kr/learn/courses/30/lessons/49191?language=kotlin)
-<br>
-
-## Hash
-- [Lv2.BestAlbum](https://programmers.co.kr/learn/courses/30/lessons/42579?language=kotlin)
-<br>
-
-## Floyd
-- [Lv3.SharedTaxiFare](https://programmers.co.kr/learn/courses/30/lessons/72413?language=kotlin)
+- [Lv0.CalculateString](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
 <br>
