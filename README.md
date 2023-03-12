@@ -30,4 +30,4 @@
 20. Simulation : 1
 21. Sort : 1
 22. Stack : 2
-23. String : 7
+23. String : 8
