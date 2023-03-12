@@ -1,8 +1,8 @@
 # Algorithm
 
 ## commit rule 
-``[Problem Type](Online Web Site) : [Problem Name or File Name]``<br>
-``ex) git commit -m "[BFS](programmers) : Picture.kt"``<br>
+### [Problem Type](Online Web Site) : [Problem Name or File Name]
+### ``ex) git commit -m "[BFS](programmers) : Picture.kt"``
 그  외  Commit은 명확하게 표현
 
 <br>
