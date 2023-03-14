@@ -67,6 +67,7 @@
 - [Lv0.PushWord](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
 - [Lv0.SaveSplitedArray](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
 - [Lv0.DuplicateLine](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
+- [Lv0.Parallel](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
 
 <br>
 
