@@ -79,6 +79,7 @@
 - [2178.mazeexploration](https://www.acmicpc.net/problem/2178)
 - [7576.tomato](https://www.acmicpc.net/problem/7576)
 - [4179.fire](https://www.acmicpc.net/problem/4179)
+- [Lv0.SafeRegion](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
 
 <br>
 
