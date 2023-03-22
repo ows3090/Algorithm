@@ -70,6 +70,7 @@
 - [Lv0.Parallel](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
 - [Lv0.NumberOfCurse](https://school.programmers.co.kr/learn/courses/30/lessons/120871)
 - [Lv0.CalcuatePolynomial](https://school.programmers.co.kr/learn/courses/30/lessons/120863)
+- [Lv0.MakeMaxNumber](https://school.programmers.co.kr/learn/courses/30/lessons/120862)
 
 <br>
 
