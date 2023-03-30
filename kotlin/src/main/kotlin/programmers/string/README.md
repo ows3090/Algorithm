@@ -1,7 +1,9 @@
-## BackTracking
-- [15649.NM1](https://www.acmicpc.net/problem/15649)
-- [9663.NQueen](https://www.acmicpc.net/problem/9663)
-- [Lv2.ArcheryCompetition](https://programmers.co.kr/learn/courses/30/lessons/92342?language=kotlin)
-- [Lv2.NQueen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=kotlin)
-- [2798.BlackJack](https://www.acmicpc.net/problem/2798)
-- [Lv2.CollectionDictionary](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+## String
+- [Lv2.tuple](https://programmers.co.kr/learn/courses/30/lessons/64065?language=kotlin)
+- [Lv2.openchatting](https://programmers.co.kr/learn/courses/30/lessons/42888?language=kotlin)
+- [Lv1.NumberStrng](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=kotlin)
+- [Lv1.RecommendNewID](https://school.programmers.co.kr/learn/courses/30/lessons/72410?language=kotlin)
+- [Lv2.StringCompression](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=kotlin#)
+- [Lv0.StringSort](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
+- [Lv0.CalculateString](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
+- [Lv0.DuplicatedStringRemote](https://school.programmers.co.kr/learn/courses/30/lessons/120888)

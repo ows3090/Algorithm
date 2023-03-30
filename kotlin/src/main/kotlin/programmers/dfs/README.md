@@ -1,7 +1,6 @@
-## BackTracking
-- [15649.NM1](https://www.acmicpc.net/problem/15649)
-- [9663.NQueen](https://www.acmicpc.net/problem/9663)
-- [Lv2.ArcheryCompetition](https://programmers.co.kr/learn/courses/30/lessons/92342?language=kotlin)
-- [Lv2.NQueen](https://programmers.co.kr/learn/courses/30/lessons/12952?language=kotlin)
-- [2798.BlackJack](https://www.acmicpc.net/problem/2798)
-- [Lv2.CollectionDictionary](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
+## DFS
+- [Lv2.fatigue](https://programmers.co.kr/learn/courses/30/lessons/87946?language=kotlin)
+- [Lv2.candidatekey](https://programmers.co.kr/learn/courses/30/lessons/42890?language=kotlin)
+- [Lv2.maxexpression](https://programmers.co.kr/learn/courses/30/lessons/67257?language=kotlin)
+- [Lv2.menurenewal](https://programmers.co.kr/learn/courses/30/lessons/72411?language=kotlin)
+- [Lv2.targetnumber](https://school.programmers.co.kr/learn/courses/30/lessons/43165?language=kotlin)
