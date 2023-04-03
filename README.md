@@ -28,7 +28,7 @@
 12. Greedy : 2
 13. Hash: 1
 14. LinkedList : 1
-15. Math : 3
+15. Math : 4
 16. PrefixSum : 1
 17. PrioirtyQueue : 2
 18. Queue : 3
