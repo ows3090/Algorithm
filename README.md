@@ -16,7 +16,7 @@
 ## Problem Type
 1. Array : 1
 2. BackTracking : 6
-3. Basic : 32
+3. Basic : 33
 4. BFS : 7
 5. BinarySearch : 1
 6. Brute-Force : 3
