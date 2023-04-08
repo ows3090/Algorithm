@@ -31,3 +31,4 @@
 - [Lv0.ControlZ](https://school.programmers.co.kr/learn/courses/30/lessons/120853)
 - [Lv0.RotateArray](https://school.programmers.co.kr/learn/courses/30/lessons/120844)
 - [Lv0.MakeTwoDimension](https://school.programmers.co.kr/learn/courses/30/lessons/120842)
+- [Lv0.HideNumber2](https://school.programmers.co.kr/learn/courses/30/lessons/120864)
