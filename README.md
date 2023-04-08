@@ -14,7 +14,7 @@
 <br>
 
 ## Problem Type
-1. Array : 1
+1. Array : 2
 2. BackTracking : 6
 3. Basic : 34
 4. BFS : 7
