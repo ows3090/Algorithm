@@ -26,7 +26,7 @@
 10. Floyd : 1
 11. Graph : 3
 12. Greedy : 2
-13. Hash: 1
+13. Hash: 2
 14. LinkedList : 1
 15. Math : 6
 16. PrefixSum : 1
