@@ -8,3 +8,4 @@ class MemoryScore {
             }
         }.toIntArray()
 }
+

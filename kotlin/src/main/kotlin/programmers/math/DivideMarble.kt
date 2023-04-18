@@ -12,7 +12,7 @@ class DivideMarble {
             }else if(sh == 1){
                 total *= ball
                 ball--
-            }eDlse{
+            }else{
                 total *=ball
                 if(total % sh == 0L){
                     total /= sh
