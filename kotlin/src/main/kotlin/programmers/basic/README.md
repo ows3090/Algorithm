@@ -34,3 +34,4 @@
 - [Lv0.HideNumber2](https://school.programmers.co.kr/learn/courses/30/lessons/120864)
 - [Lv1.MemoryScore](https://school.programmers.co.kr/learn/courses/30/lessons/176963)
 - [Lv1.PaintOver](https://school.programmers.co.kr/learn/courses/30/lessons/161989)
+- [Lv1.RoughKeyboard](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
