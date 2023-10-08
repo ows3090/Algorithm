@@ -36,3 +36,4 @@
 - [Lv1.PaintOver](https://school.programmers.co.kr/learn/courses/30/lessons/161989)
 - [Lv1.RoughKeyboard](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
 - [Lv0.FromFivetoEnd](https://school.programmers.co.kr/learn/courses/30/lessons/181853)
+- [Lv0.SelectNumberOfRandom](https://school.programmers.co.kr/learn/courses/30/lessons/181858)
