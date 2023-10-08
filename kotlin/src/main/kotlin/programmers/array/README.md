@@ -3,3 +3,4 @@
 - [Lv0.CalculateDependOnArraySize](https://school.programmers.co.kr/learn/courses/30/lessons/181854)
 - [Lv0.CompareArrays](https://school.programmers.co.kr/learn/courses/30/lessons/181856)
 - [Lv0.MakePowerArraySize](https://school.programmers.co.kr/learn/courses/30/lessons/181857)
+- [Lv0.MakeArray6](https://school.programmers.co.kr/learn/courses/30/lessons/181859)
