@@ -44,3 +44,4 @@
 - [Lv0.DivideBlank](https://school.programmers.co.kr/learn/courses/30/lessons/181869)
 - [Lv0.Removead](https://school.programmers.co.kr/learn/courses/30/lessons/181870)
 - [Lv0.CalculateNumberOfString](https://school.programmers.co.kr/learn/courses/30/lessons/181871)
+- [Lv0.FindLongestString](https://school.programmers.co.kr/learn/courses/30/lessons/181872)
