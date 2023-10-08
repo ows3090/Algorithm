@@ -1,4 +1,4 @@
-package programmers.basic
+package programmers.string
 
 class FindLongestString {
     fun solution(myString: String, pat: String): String {

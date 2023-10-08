@@ -1,4 +1,4 @@
-package programmers.basic
+package programmers.string
 
 class CalculateNumberOfString {
     fun solution(myString: String, pat: String): Int {

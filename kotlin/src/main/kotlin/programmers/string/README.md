@@ -11,3 +11,5 @@
 - [Lv0.RnyString](https://school.programmers.co.kr/learn/courses/30/lessons/181863)
 - [Lv0.FindChangedString](https://school.programmers.co.kr/learn/courses/30/lessons/181864)
 - [Lv0.SortAfterCropString](https://school.programmers.co.kr/learn/courses/30/lessons/181866)
+- [Lv0.FindLongestString](https://school.programmers.co.kr/learn/courses/30/lessons/181872)
+- [Lv0.CalculateNumberOfString](https://school.programmers.co.kr/learn/courses/30/lessons/181871)
