@@ -9,3 +9,4 @@
 - [Lv0.DuplicatedStringRemote](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
 - [Lv0.GroupStrings](https://school.programmers.co.kr/learn/courses/30/lessons/181855)
 - [Lv0.RnyString](https://school.programmers.co.kr/learn/courses/30/lessons/181863)
+- [Lv0.FindChangedString](https://school.programmers.co.kr/learn/courses/30/lessons/181864)
