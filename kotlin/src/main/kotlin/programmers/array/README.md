@@ -1,2 +1,3 @@
 ## Array
-- [Lv0.]
+- [Lv0.CutArray](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
+- [Lv0.CalculateDependOnArraySize](https://school.programmers.co.kr/learn/courses/30/lessons/181854)
