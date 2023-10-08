@@ -38,3 +38,4 @@
 - [Lv0.FromFivetoEnd](https://school.programmers.co.kr/learn/courses/30/lessons/181853)
 - [Lv0.SelectNumberOfRandom](https://school.programmers.co.kr/learn/courses/30/lessons/181858)
 - [Lv0.ThreeDivider](https://school.programmers.co.kr/learn/courses/30/lessons/181862)
+- [Lv0.CalculateSimpleExpression](https://school.programmers.co.kr/learn/courses/30/lessons/181865)
