@@ -7,3 +7,4 @@
 - [Lv0.StringSort](https://school.programmers.co.kr/learn/courses/30/lessons/120911)
 - [Lv0.CalculateString](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
 - [Lv0.DuplicatedStringRemote](https://school.programmers.co.kr/learn/courses/30/lessons/120888)
+- [Lv0.GroupStrings](https://school.programmers.co.kr/learn/courses/30/lessons/181855)
