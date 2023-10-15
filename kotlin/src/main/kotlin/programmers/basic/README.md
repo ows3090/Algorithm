@@ -47,3 +47,4 @@
 - [Lv0.TodoList](https://school.programmers.co.kr/learn/courses/30/lessons/181885)
 - [Lv0.AddUntilN](https://school.programmers.co.kr/learn/courses/30/lessons/181884)
 - [Lv0.SequenceAndQuery1](https://school.programmers.co.kr/learn/courses/30/lessons/181883)
+- [Lv1.NumberPartner](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
