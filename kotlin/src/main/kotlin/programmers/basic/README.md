@@ -16,7 +16,6 @@
 - [Lv1.MakeJadenCaseString](https://school.programmers.co.kr/learn/courses/30/lessons/12951?language=kotlin)
 - [Lv1.LeastCommonMultiple](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=kotlin)
 - [Lv2.binaryTransitioni](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
-- [Lv2.camouflage](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 - [Lv2.ContinuousSequence](https://school.programmers.co.kr/learn/courses/30/lessons/131701)
 - [Lv0.Bubbling](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
 - [Lv0.NextNumber](https://school.programmers.co.kr/learn/courses/30/lessons/120924)
