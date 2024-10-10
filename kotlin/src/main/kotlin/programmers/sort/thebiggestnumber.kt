@@ -13,6 +13,9 @@ class TheBiggestNumber {
         return arr.joinToString("")
     }
 
+
+    val dfd: Int by lazy { 1 }
+
     fun solution2(numbers: IntArray): String {
         if (numbers.all { it == 0 }) return "0"
         val nums = numbers.sortedWith(

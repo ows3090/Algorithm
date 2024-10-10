@@ -17,4 +17,21 @@ class Carpet {
         }
         return answer
     }
+
+    fun solution2(brown: Int, yellow: Int): IntArray {
+        var answer = intArrayOf()
+        var sum = brown + yellow
+
+
+        (1..sqrt(yellow.toDouble()).toInt()).forEach {
+            val w = it
+            val h = yellow / w
+
+            if ((w+2) * (h+2) == sum) {
+                answer = intArrayOf(max(w+2, h+2), min(w+2,h+2))
+            }
+        }
+
+        return answer
+    }
 }
